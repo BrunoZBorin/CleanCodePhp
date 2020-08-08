@@ -6,8 +6,11 @@ Bruno Zanelatti Borin
 O que foi feito neste código:
 
 Interfaces com nomes autoexplicativos e sem I no começo
+
 Funções com 3 linhas ou menos
+
 Sem comentários
+
 Arquivos pequenos com poucas responsabilidades e reutilizaveis
 
 
